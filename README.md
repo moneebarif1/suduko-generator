@@ -10,19 +10,15 @@
 npm install --save suduko-generator
 ```
 
+## Purpos
+Generate 9*9 suduko as different diffculty level. grid is the grid have to shown on screen with 0 presenting empty. solution is complete solution. 
+
 ## Usage
 
 ```tsx
-import React, { Component } from 'react'
-
-import MyComponent from 'suduko-generator'
-import 'suduko-generator/dist/index.css'
-
-class Example extends Component {
-  render() {
-    return <MyComponent />
-  }
-}
+    const {grid , solution} = createBoard('Easy')
+    console.log(grid)
+    console.log(solution)
 ```
 
 ## License
