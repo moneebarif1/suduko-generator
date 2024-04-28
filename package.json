@@ -1,6 +1,6 @@
 {
   "name": "suduko-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "It help to create diffrent suduko board  as an array",
   "author": "moneebarif1",
   "license": "MIT",

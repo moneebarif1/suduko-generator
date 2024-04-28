@@ -10,7 +10,7 @@
 npm install --save suduko-generator
 ```
 
-## Purpos
+## Purpose
 Generate 9*9 suduko as different diffculty level. grid is the grid have to shown on screen with 0 presenting empty. solution is complete solution. 
 
 ## Usage
